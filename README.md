@@ -1,4 +1,4 @@
-# Shop App (Complete)
+# Shop App 
 
 A small console inventory app in Java (Maven). Loads products from `data/products.csv` and lets you list, buy, sell, reprice, and see total value.
 
